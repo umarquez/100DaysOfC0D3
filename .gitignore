@@ -87,3 +87,4 @@ fabric.properties
 # vendor/
 
 /_resources/*
+.tmp.drivedownload/
