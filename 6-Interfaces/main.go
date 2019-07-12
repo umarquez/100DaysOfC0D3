@@ -26,7 +26,7 @@ func NewLlaveDeTuercas() LlaveDeTuercas {
 
 // Golpear Este método hace que la llave de tuercas pueda ser usada como Martillo
 func (llave LlaveDeTuercas) Golpear(clavo float64) {
-	var golpes = math.Ceil(clavo /llave.pesoKg)
+	var golpes = math.Ceil(clavo / llave.pesoKg)
 
 	fmt.Printf("Se necesitaron %v golpes con la llave de tuercas\n", golpes)
 }
@@ -46,9 +46,9 @@ func NewDestornillador() Destornillador {
 
 // Golpear Este método hace que el destornillador pueda ser usado como Martillo
 func (desT Destornillador) Golpear(clavo float64) {
-	var golpes = math.Ceil(clavo /desT.pesoKg)
+	var golpes = math.Ceil(clavo / desT.pesoKg)
 
-	fmt.Printf("Se necesitaron %v golpes con el destornillador\n",golpes)
+	fmt.Printf("Se necesitaron %v golpes con el destornillador\n", golpes)
 }
 
 // =========================================
@@ -66,9 +66,9 @@ func NewAlicatas() Alicatas {
 
 // Golpear Este método hace que las alicatas puedan ser usadas como Martillo
 func (alic Alicatas) Golpear(clavo float64) {
-	var golpes = math.Ceil(clavo /alic.pesoKg)
+	var golpes = math.Ceil(clavo / alic.pesoKg)
 
-	fmt.Printf("Se necesitaron %v golpes con las alicatas\n",golpes)
+	fmt.Printf("Se necesitaron %v golpes con las alicatas\n", golpes)
 }
 
 // =========================================
@@ -86,14 +86,14 @@ func NewPiedra() Piedra {
 
 // Golpear Este método hace que las alicatas puedan ser usadas como Martillo
 func (piedra Piedra) Golpear(clavo float64) {
-	var golpes = math.Ceil(clavo /piedra.pesoKg)
+	var golpes = math.Ceil(clavo / piedra.pesoKg)
 
-	fmt.Printf("Se necesitaron %v golpes con la piedra\n",golpes)
+	fmt.Printf("Se necesitaron %v golpes con la piedra\n", golpes)
 }
 
 // =========================================
 // Pincel es un objeto que no puede Golpear()
-type Pincel struct {}
+type Pincel struct{}
 
 // NewPincel Devuelve un nuevo pincel.
 func NewPincel() Pincel {
@@ -108,7 +108,7 @@ func ClavarClavoCon(clavo float64, noMartillo PuedeSerMartillo) {
 
 func main() {
 	// Definimos el tamaño ficticio del clavo
-	var clavo float64 = 8//cm
+	var clavo float64 = 8 //cm
 	fmt.Printf("-  Probando un clavo de %vcm\n", clavo)
 	fmt.Println()
 

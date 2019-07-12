@@ -20,3 +20,4 @@
 - [**`[6/100]`** Interfaces Golang | Si parece un pato, nada como un pato…](https://medium.com/@umarquez_mx/6-100-100daysofc0d3-f7a661dd8e1a)
 - [**`[7/100]`** Tabla de Hash | Hash Table](https://medium.com/@umarquez_mx/7-100-100daysofc0d3-6eed6b4ceded)
 - [**`[8/100]`** Listas enlazadas | Linked List](https://medium.com/@umarquez_mx/8-100-100daysofc0d3-755dde240e60)
+- [**`[9/100]`** Ordenamiento con Árbol Binario | Binary Tree Sort](https://medium.com/@umarquez_mx/9-100-100daysofc0d3-b4a47f089b1f)
