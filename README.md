@@ -24,3 +24,4 @@
 - [**`[10/100]`** Primer proyecto: Cuenta colores](https://medium.com/@umarquez_mx/10-100-100daysofc0d3-7187417844ad)
 - [**`[11/100]`** Partrón Singleton | Singleton Pattern](https://medium.com/@umarquez_mx/11-100-100daysofc0d3-5d3d60c70390)
 - [**`[12/100]`** Ordenamiento rápido | Quicksort](https://medium.com/@umarquez_mx/12-100-100daysofc0d3-9bf50aecde0d)
+- [**`[13/100]`** Esteganografía | Steganography](https://medium.com/@umarquez_mx/13-100-100daysofc0d3-9a06e28e257)
