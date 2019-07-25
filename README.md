@@ -28,3 +28,4 @@
 - [**`[14/100]`** UUEncode](https://medium.com/@umarquez_mx/14-100-100daysofc0d3-ae616cce9499)
 - [**`[15/100]`** El vecino más cercano | Nearest neighbor search](https://medium.com/@umarquez_mx/15-100-100daysofc0d3-237b97faa4c7)
 - [**`[16/100]`** Escalado de imágenes mediante interpolación de vecinos cercanos | Image scaling applying nearest neighbor interpolation](https://medium.com/@umarquez_mx/16-100-100daysofc0d3-eef81cd44afb)
+- [**`[17/100]`** Endianness | Big-endian & Little-endian](https://medium.com/@umarquez_mx/17-100-100daysofc0d3-9fd4ad3eba91)
