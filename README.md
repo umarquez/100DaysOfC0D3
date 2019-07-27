@@ -30,3 +30,4 @@
 - [**`[16/100]`** Escalado de imágenes mediante interpolación de vecinos cercanos | Image scaling applying nearest neighbor interpolation](https://medium.com/@umarquez_mx/16-100-100daysofc0d3-eef81cd44afb)
 - [**`[17/100]`** Endianness | Big-endian & Little-endian](https://medium.com/@umarquez_mx/17-100-100daysofc0d3-9fd4ad3eba91)
 - [**`[18/100]`** TEA | Tiny Encryption Algorithm](https://medium.com/@umarquez_mx/18-100-100daysofc0d3-294aaacd2ac1)
+- [**`[19/100]`** Ping | ICMP Echo]()
