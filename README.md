@@ -32,3 +32,4 @@
 - [**`[18/100]`** TEA | Tiny Encryption Algorithm](https://medium.com/@umarquez_mx/18-100-100daysofc0d3-294aaacd2ac1)
 - [**`[19/100]`** Ping | ICMP Echo](https://medium.com/@umarquez_mx/19-100-100daysofc0d3-48b6b5d27b9c)
 - [**`[20/100]`** Segundo proyecto: Repintado](https://medium.com/@umarquez_mx/20-100-100daysofc0d3-344d3b0cfc8f)
+- [**`[21/100]`** Búsqueda simple de texto | Simple text search](https://medium.com/@umarquez_mx/21-100-100daysofc0d3-1650f35510ef)
