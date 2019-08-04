@@ -33,3 +33,5 @@
 - [**`[19/100]`** Ping | ICMP Echo](https://medium.com/@umarquez_mx/19-100-100daysofc0d3-48b6b5d27b9c)
 - [**`[20/100]`** Segundo proyecto: Repintado](https://medium.com/@umarquez_mx/20-100-100daysofc0d3-344d3b0cfc8f)
 - [**`[21/100]`** Búsqueda simple de texto | Simple text search](https://medium.com/@umarquez_mx/21-100-100daysofc0d3-1650f35510ef)
+- [**`[22/100]`** Ordenamiento Gnomo | Gnome Sort](https://medium.com/@umarquez_mx/22-100-100daysofc0d3-26fbe1abaf13)
+- [**`[23/100]`** Compresión LZ77 | LZ77 Compression Algorithm](https://medium.com/@umarquez_mx/23-100-100daysofc0d3-50480b7112d4)
