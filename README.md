@@ -35,3 +35,4 @@
 - [**`[21/100]`** Búsqueda simple de texto | Simple text search](https://medium.com/@umarquez_mx/21-100-100daysofc0d3-1650f35510ef)
 - [**`[22/100]`** Ordenamiento Gnomo | Gnome Sort](https://medium.com/@umarquez_mx/22-100-100daysofc0d3-26fbe1abaf13)
 - [**`[23/100]`** Compresión LZ77 | LZ77 Compression Algorithm](https://medium.com/@umarquez_mx/23-100-100daysofc0d3-50480b7112d4)
+- [**`[24/100]`** Escalado de imágenes mediante interpolación bilineal | Image scaling applying bilinear interpolation](https://medium.com/@umarquez_mx/24-100-100daysofc0d3-fc49dad71761)
