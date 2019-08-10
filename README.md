@@ -37,3 +37,4 @@
 - [**`[23/100]`** Compresión LZ77 | LZ77 Compression Algorithm](https://medium.com/@umarquez_mx/23-100-100daysofc0d3-50480b7112d4)
 - [**`[24/100]`** Escalado de imágenes mediante interpolación bilineal | Image scaling applying bilinear interpolation](https://medium.com/@umarquez_mx/24-100-100daysofc0d3-fc49dad71761)
 - [**`[25/100]`** Tramado| Dithering](https://medium.com/@umarquez_mx/25-100-100daysofc0d3-ba73c5030a95)
+- [**`[26/100]`** Shell a través de WebSocket | Shell through WebSocket](https://medium.com/@umarquez_mx/26-100-100daysofc0d3-459cdd5322b1)
