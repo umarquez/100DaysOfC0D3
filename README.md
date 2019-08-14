@@ -38,3 +38,6 @@
 - [**`[24/100]`** Escalado de imágenes mediante interpolación bilineal | Image scaling applying bilinear interpolation](https://medium.com/@umarquez_mx/24-100-100daysofc0d3-fc49dad71761)
 - [**`[25/100]`** Tramado| Dithering](https://medium.com/@umarquez_mx/25-100-100daysofc0d3-ba73c5030a95)
 - [**`[26/100]`** Shell a través de WebSocket | Shell through WebSocket](https://medium.com/@umarquez_mx/26-100-100daysofc0d3-459cdd5322b1)
+- [**`[27/100]`** Partrónes de diseño: Builder | Builder design pattern](https://medium.com/@umarquez_mx/27-100-100daysofc0d3-900fb24eea2d)
+- [**`[28/100]`** Escaneo de puertos TCP | TCP port scanning](https://medium.com/@umarquez_mx/28-100-100daysofc0d3-7746a167e50c)
+
