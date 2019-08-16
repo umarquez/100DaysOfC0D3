@@ -41,4 +41,4 @@
 - [**`[27/100]`** Partrónes de diseño: Builder | Builder design pattern](https://medium.com/@umarquez_mx/27-100-100daysofc0d3-900fb24eea2d)
 - [**`[28/100]`** Escaneo de puertos TCP | TCP port scanning](https://medium.com/@umarquez_mx/28-100-100daysofc0d3-7746a167e50c)
 - [**`[29/100]`** Desenfoque de caja | Box blur](https://medium.com/@umarquez_mx/29-100-100daysofc0d3-8fe71f7af51e)
-
+- [**`[30/100]`** Herencia & Patrón Composite | Inheritance & Composite Pattern](https://medium.com/@umarquez_mx/30-100-100daysofc0d3-af4ae4c2946)
